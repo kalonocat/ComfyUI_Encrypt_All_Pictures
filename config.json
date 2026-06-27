@@ -1,0 +1,6 @@
+{
+  "enabled": true,
+  "encrypt_all_paths": false,
+  "block_plaintext_writes": true,
+  "comfy_managed_only": true
+}

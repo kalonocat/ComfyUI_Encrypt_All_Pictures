@@ -1,0 +1,3 @@
+# Copy to encrypt_key.txt and replace with your own 64-char hex key (32 bytes).
+# Or use passphrase format: first line "passphrase:<salt_hex>", second line your passphrase.
+0123456789abcdef0123456789abcdef0123456789abcdef0123456789abcdef
